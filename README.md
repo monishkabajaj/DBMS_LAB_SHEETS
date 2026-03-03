@@ -6,4 +6,4 @@
 **Course:** DATABASE MANAGEMENT SYSTEM LAB  
 **Course Code:** ENCS254  
 **Program:** BTECH CSE  
-**Section:** AIS  
+**Section:** A
